@@ -37,6 +37,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 
 ## Planning Checklist
 - [ ] Project kickoff held
+- [ ] Role ownership confirmed using the [Roles & Responsibilities Checklist](./octoacme-roles-and-responsibilities-checklist.md) (backlog, QA sign-off, deployment)
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
